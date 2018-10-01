@@ -2,7 +2,7 @@
 
 Centralized logging can be very useful when attempting to identify problems with your servers or applications, as it allows you to search through all of your logs in a single place. It is also useful because it allows you to identify issues that span multiple servers by correlating their logs during a specific time frame. Here we cover how to install Elasticsearch , Logstash and Kibana on Ubuntu, then how to add more filters to structure your log data and how to use Kibana for a efficient log monitoring.
 Sample ELK architecture (reference image from google) :
-<img src="http://apuntesdetrabajo.es/wp-content/uploads/2014/11/logstash-infr.png" height="400" width="1000">
+<img src="https://user-images.githubusercontent.com/12294956/46274128-f2ca7480-c575-11e8-9a50-d333495d6c25.png">
 
 # 1. Install JDK (on central ELK system)
 <ul>
